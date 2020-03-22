@@ -1,3 +1,6 @@
 [submodule "jdk11u-dev"]
 	path = jdk11u-dev
 	url = https://github.com/openjdk/jdk11u-dev
+[submodule "osv"]
+	path = osv
+	url = https://github.com/cloudius-systems/osv
