@@ -4,3 +4,6 @@
 [submodule "osv"]
 	path = osv
 	url = https://github.com/cloudius-systems/osv
+[submodule "graal"]
+	path = graal
+	url = https://github.com/oracle/graal
